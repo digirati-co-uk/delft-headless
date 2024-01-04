@@ -3,12 +3,15 @@ server:
 
 # Run these everywhere.
 run:
+  - flat-manifests
   - delft-labels
+  - extract-remote-source
   - extract-slug-source
   - extract-label-string
   - extract-thumbnail
   - manifest-sqlite
   - metadata-analysis
+  - folder-collections
 
 stores:
 
