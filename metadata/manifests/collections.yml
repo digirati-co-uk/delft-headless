@@ -1,0 +1,98 @@
+# ex-external
+ex-atria:
+  label:
+    en: "Atria, Institute on gender equality and women's history"
+    nl: "Atria, Kennisinstituut voor Emancipatie en Vrouwengeschiedenis"
+  summary:
+    en: "Publications from Atria's collection"
+    nl: "Publicaties uit de collectie van Atria"
+ex-aviodrome:
+  label:
+    en: "Aviodrome"
+    nl: "Aviodrome"
+  summary:
+    en: "Aerial photos of Delft"
+    nl: "Luchtfoto's van Delft"
+ex-histechnica:
+  label: 
+    en: "Histechnica"
+    nl: "Histechnica"
+  summary:
+    en: "From the archive of Histechnica, friends of TU Delft's Academic Heritage"
+    nl: "Uit het archief van Histechnica, vrienden van het Academisch Erfgoed van de TU Delft"
+ex-hni:
+  label:
+    en: "New Institute"
+    nl: "Nieuwe Instituut"
+  summary:
+    en: "Plans, documents and photos related to TU Delft's campus from various archives"
+    nl: "Bouwtekeningen, documenten en foto's gerelateerd aan de campus van de TU Delft uit diverse archieven"
+ex-na:
+  label:
+    en: "National Archives of the Netherlands"
+    nl: "Nationaal Archief"
+  summary:
+    en: "Archival documents of TU Delft held by the National Archives of the Netherlands"
+    nl: "Archiefmateriaal van de Technische Hogeschool uit het Nationaal Archief"
+ex-stadsarchief-delft:
+  label:
+    en: "Delft City Archives"
+    nl: "Stadsarchief Delft"
+  summary:
+    en: "Maps and photos from Delft City Archive" 
+    nl: "Kaarten en foto's van Stadsarchief Delft"
+ex-ubl:
+  label:
+    en: "Leiden University Libraries"
+    nl: "Universitaire Bibliotheken Leiden"
+  summary:
+    en: 
+    nl: 
+# lib-library
+lib-fotoarchief:
+  label:
+    en: "Image archive"
+    nl: "Beeldarchief"
+  summary:
+    en: "From the image archive of TU Delft Library"
+    nl: "Uit het beeldarchief van de TU Delft Library"
+lib-fotografie:
+  label: 
+    en: "Photos"
+    nl: "Foto's"
+  summary:
+    en: "Recent photos of exhibitions, events and depots"
+    nl: "Recente foto's van tentoonstellingen, evenementen en depots"
+lib-kaartenkamer:
+  label: 
+    en: "Map room"
+    nl: "Kaartenkamer"
+  summary:
+    en: "From the collection of the map room of TU Delft Library"
+    nl: "Uit de collectie van de kaartenkamer van de TU Delft Library"
+lib-tresor-dvsv:
+  label: 
+    nl: "Delftsche Vrouwelijke Studenten Vereeniging"
+  summary:
+    en: "Digitised books about the history of Delftsche Vrouwelijke Studentenvereniging (DVSV - Delft student society for women), from TU Delft Library's Special Collections"
+    nl: "Gedigitaliseerde boeken over de Delftsche Vrouwelijke Studenten Vereeniging, afkomstig uit de Bijzondere Collecties van de TU Delft Library"
+lib-tresor-th-mededelingen:
+  label: 
+    nl: "TH Mededelingen"
+  summary:
+    en: "Digitised books about the history of Delft University of Technology, from TU Delft Library's Special Collections"
+    nl: "Gedigitaliseerde boeken over de geschiedenis van de TU Delft, afkomstig uit de Bijzondere Collecties van de TU Delft Library"
+lib-tresor-universiteitsgeschiedenis:
+  label: 
+    en: "History of the university"
+    nl: "Universiteitsgeschiedenis"
+  summary:
+    en: "Digitised books about the history of Delft University of Technology, from TU Delft Library's Special Collections"
+    nl: "Gedigitaliseerde boeken over de geschiedenis van de TU Delft, afkomstig uit de Bijzondere Collecties van de TU Delft Library"
+# tu-campus
+tu-cre-tib-bouwtekeningen:
+  label: 
+   en: "Campus Real Estate"
+  summary: 
+   en: "Buildings plans from the collection of CRE"
+   nl: "Bouwtekeningen uit de collectie van CRE"
